@@ -1,1 +1,1 @@
-# Testing http://automationpractice.com using Selenium
+Testing http://automationpractice.com using Selenium
